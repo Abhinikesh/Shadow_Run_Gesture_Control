@@ -64,4 +64,3 @@ python main.py
 | **Quit** | Press **Q** / Escape in either window or close it | Escape |
 
 ---
-# Shadow_Run_Gesture_Control
