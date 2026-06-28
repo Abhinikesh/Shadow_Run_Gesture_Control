@@ -8,6 +8,22 @@ The project uses two windows driven by a single-threaded loop (to comply with ma
 
 ---
 
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/Running_game.png" alt="ShadowRun gameplay" width="480">
+  <br>
+  <em>Live gameplay — cyan runner dodging coral obstacles and a violet overhead bar</em>
+</p>
+
+<p align="center">
+  <img src="screenshots/End_game.png" alt="ShadowRun game over screen" width="480">
+  <br>
+  <em>Game over screen with score, best score, and coin tally</em>
+</p>
+
+---
+
 ## Installation
 
 ### 1. Requirements
