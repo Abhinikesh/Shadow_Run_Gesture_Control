@@ -1,0 +1,15 @@
+# ShadowRun Python Dependency Manifest
+# Pinned versions verified for cross-compatibility on macOS/Windows/Linux
+
+# Core library for pose estimation
+mediapipe==0.10.35
+
+# Computer vision and camera processing
+opencv-python==4.10.0.84
+
+# Game engine (rendering, audio stub, event dispatch)
+pygame==2.6.1
+
+# Numeric processing (required by MediaPipe / OpenCV)
+# Pinned to 1.26.x as MediaPipe relies on C-level API compatibility
+numpy==1.26.4
